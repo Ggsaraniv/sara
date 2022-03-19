@@ -1,0 +1,23 @@
+.date
+{
+    background-color: blue;
+    color: cyan;
+    font-style: italic;
+    border: 0mm;
+text-align: right;}
+p
+    {
+color: darkorchid;
+text-align: center;
+    }
+    ol{
+        color: pink;
+        background-color: black;
+    }
+    div{
+        border: black;
+        background-color:white;
+    }
+    table{
+        border: 1px solid black;
+    }
